@@ -2,7 +2,7 @@
 
 Eight tiles, one empty square, and a shuffled board that always has a solution.
 
-
+https://raeeskasim1.github.io/sliding-number-puzzle/
 
 ## Try it
 
